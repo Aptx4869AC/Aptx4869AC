@@ -15,7 +15,7 @@
     </ul>
   </div>
   <div style="flex: 1; display: flex; align-items: center; justify-content: center; min-height: 200px;">
-    <img src="https://emojis.slackmojis.com/emojis/images/1643515867/18825/02_fingers.gif?1643515867" width="120">
+    <img src="https://emojis.slackmojis.com/emojis/images/1706826451/88604/animeteacupq.png?1706826451" width="120">
   </div>
 </div>
 
