@@ -3,8 +3,19 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="100">
 </h2>
 
-<h5>
-<p align="center"> 
+### Hi, this is where I share projects and explore technology 🚀
+
+- 🛡️ Focused on **Privacy Protection** & **Privacy Computing**
+- 🔐 **TEE**, threshold decryption, and attribute-based encryption
+- 🎮 Steam (games), and Bilibili (anime)
+- 💬 Happy to chat about the above!
+- 🌈 Follow your heart, live freely and happily, and I hope you can do the same, my friend.
+
+------
+
+
+<h4 align="center">
+<p> 
  <span style="font-size: 24px; font-weight: bold;">🌟 Contact Me:</span> 
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:lijiuhui@stu.xidian.edu.com"> 
@@ -17,7 +28,7 @@
      <kbd>aptx4869ac@qq.com</kbd> 
   </a> 
 </p>
-</h5>
+</h4>
 
 <table align="center">
   <tr>
@@ -89,5 +100,4 @@
 
 <!-- https://www.cnblogs.com/PeterJXL/p/18437094 -->
 
-
-
+<!-- <img src="https://emojis.slackmojis.com/emojis/images/1643515867/18825/02_fingers.gif?1643515867" width="50">-->
