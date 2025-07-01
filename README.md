@@ -57,14 +57,14 @@
   <p>
   <table>
     <tr>
-      <td width="50%" style="position: relative;">
-        <div width="50%" align="center">
-          <img src="https://github-readme-stats-three-brown-35.vercel.app/api?username=Aptx4869AC&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" />
+      <td width="50%" align="center">
+        <div>
+<img src="https://github-readme-stats-three-brown-35.vercel.app/api?username=Aptx4869AC&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" width="98%" />
         </div>
       </td>
-      <td width="50%" style="position: relative;">
-        <div width="50%" align="center">
-          <img src="https://github-readme-stats-three-brown-35.vercel.app/api/top-langs/?username=Aptx4869AC&hide=tcl,xslt,jupyter%20notebook,smarty,tex&theme=transparent&layout=compact&hide_border=true" />
+      <td width="50%" align="center">
+        <div>
+            <img src="https://github-readme-stats-three-brown-35.vercel.app/api/top-langs/?username=Aptx4869AC&hide=tcl,xslt,jupyter%20notebook,smarty,tex&theme=dracula&layout=compact&hide_border=true" width="75%" />
         </div>
       </td>
     </tr>
@@ -88,4 +88,3 @@
 
 
 <!-- emojis: https://slackmojis.com -->
-
