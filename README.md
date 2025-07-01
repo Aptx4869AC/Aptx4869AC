@@ -73,7 +73,6 @@
 
 <h3 align="center">
     <img src="https://emojis.slackmojis.com/emojis/images/1643514171/1363/eevee.gif?1643514171" width="70">
-    <img src="https://emojis.slackmojis.com/emojis/images/1643517237/32761/cubone.gif?1643517237" width="80">
     <img src="https://emojis.slackmojis.com/emojis/images/1643517238/32764/wartortle.gif?1643517238" width="70">
     <img src="https://emojis.slackmojis.com/emojis/images/1643517238/32762/pidgeot.gif?1643517238" width="60">
     <img src="https://emojis.slackmojis.com/emojis/images/1643515329/13479/absol_pokemon.gif?1643515329" width="70">
