@@ -3,20 +3,27 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="100">
 </h2>
 
-### Hi, this is where I share projects and explore technology 🚀
-
-- 🛡️ Focused on **Privacy Protection** & **Privacy Computing**
-- 🔐 **TEE**, threshold decryption, and attribute-based encryption
-- 🎮 Steam (games), and Bilibili (anime)
-- 💬 Happy to chat about the above!
-- 🌈 Follow your heart, live freely and happily, and I hope you can do the same, my friend.
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 2;">
+    <h3>Hi, this is where I share projects and explore technology 🚀</h3>
+    <ul>
+      <li>🛡️ Focused on <strong>Privacy Protection</strong> & <strong>Privacy Computing</strong></li>
+      <li>🔐 <strong>TEE</strong>, threshold decryption, and attribute-based encryption</li>
+      <li>🎮 Steam (games), and Bilibili (anime)</li>
+      <li>💬 Happy to chat about the above!</li>
+      <li>🌈 Follow your heart, live freely and happily, and I hope you can do the same, my friend.</li>
+    </ul>
+  </div>
+  <div style="flex: 1; display: flex; align-items: center; justify-content: center; min-height: 200px;">
+    <img src="https://emojis.slackmojis.com/emojis/images/1643515867/18825/02_fingers.gif?1643515867" width="120">
+  </div>
+</div>
 
 ------
 
-
-<h4 align="center">
+<h3 align="center">
 <p> 
- <span style="font-size: 24px; font-weight: bold;">🌟 Contact Me:</span> 
+ <span style="font-weight: bold;">🌟 Contact Me:</span> 
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:lijiuhui@stu.xidian.edu.com"> 
     <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" width="24" style="margin-right: 3px;"/> 
@@ -28,7 +35,7 @@
      <kbd>aptx4869ac@qq.com</kbd> 
   </a> 
 </p>
-</h4>
+</h3>
 
 <table align="center">
   <tr>
@@ -100,4 +107,9 @@
 
 <!-- https://www.cnblogs.com/PeterJXL/p/18437094 -->
 
-<!-- <img src="https://emojis.slackmojis.com/emojis/images/1643515867/18825/02_fingers.gif?1643515867" width="50">-->
+<!-- -->
+
+
+
+
+
