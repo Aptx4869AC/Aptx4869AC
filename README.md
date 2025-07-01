@@ -7,15 +7,15 @@
   <div style="flex: 2;">  
     <h3>Hi, this is where I share projects and explore technology 🚀</h3>  
     <div style="display: flex; align-items: flex-start; gap: 30px;">  
-      <div style="flex: 0 0 120px; display: flex; align-items: flex-end; justify-content: center;">  
+      <div style="flex: 0 0 120px; display: flex; align-items: center; justify-content: center;">  
         <img src="https://emojis.slackmojis.com/emojis/images/1706826451/88604/animeteacupq.png?1706826451" width="120" style="max-width: 100%; height: auto;">  
       </div>  
       <div style="flex: 1;">  
-        <ul style="margin: 0; align-items: flex-start; padding-left: 20px;">  
-          <li>🛡️ Focused on <strong>Privacy Protection</strong> & <strong>Privacy Computing</strong></li>  
-          <li>🔐 <strong>TEE</strong>, threshold decryption, and attribute-based encryption</li>  
-          <li>🎮 Steam (games), and Bilibili (anime)</li>  
-          <li>💬 Happy to chat about the above!</li>  
+        <ul style="margin: 0; padding-left: 20px; list-style-type: none;">  
+          <li style="margin-bottom: 8px;">🛡️ Focused on <strong>Privacy Protection</strong> & <strong>Privacy Computing</strong></li>  
+          <li style="margin-bottom: 8px;">🔐 <strong>TEE</strong>, threshold decryption, and attribute-based encryption</li>  
+          <li style="margin-bottom: 8px;">🎮 Steam (games), and Bilibili (anime)</li>  
+          <li style="margin-bottom: 8px;">💬 Happy to chat about the above!</li>  
           <li>🌈 Follow your heart, live freely and happily, and I hope you can do the same, my friend.</li>  
         </ul>  
       </div>  
