@@ -3,6 +3,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="100">
 </h2>
 
+
 <div style="display: flex; align-items: flex-start; gap: 20px;">  
   <div style="flex: 2;">  
     <h3>Hi, this is where I share projects and explore technology 🚀</h3>  
@@ -40,6 +41,7 @@
   </a> 
 </p>
 </h3>
+
 
 <table align="center">
   <tr>
@@ -80,6 +82,7 @@
   </tr>
 </table>
 
+
 <p align="center"> 
   <span>  
     <img src="https://github-readme-stats-three-brown-35.vercel.app/api?username=Aptx4869AC&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" width="45%" /> 
@@ -88,6 +91,7 @@
     <img src="https://github-readme-stats-three-brown-35.vercel.app/api/top-langs/?username=Aptx4869AC&hide=tcl,xslt,jupyter%20notebook,smarty,tex&theme=dracula&layout=compact&hide_border=true" width="34.5%" /> 
   </span> 
 </p>
+
 
 <h3 align="center">
     <img src="https://emojis.slackmojis.com/emojis/images/1643514171/1363/eevee.gif?1643514171" width="70">
@@ -103,6 +107,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32743/vaporeon.gif?1643517236" width="65">
 </h3>
 
+
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aptx4869AC&theme=react-dark)
 
 
@@ -115,5 +120,23 @@
 
 
 
-
+<h3>Hi, this is where I share projects and explore technology 🚀</h3>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="middle">
+      <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; overflow: hidden;">
+        <img src="https://emojis.slackmojis.com/emojis/images/1706826451/88604/animeteacupq.png?1706826451">
+      </div>
+    </td>
+    <td valign="top">
+        <ul style="margin: 0; padding-left: 20px; list-style-type: none;">  
+          <li style="margin-bottom: 8px;">🛡️ Focused on <strong>Privacy Protection</strong> & <strong>Privacy Computing</strong></li>  
+          <li style="margin-bottom: 8px;">🔐 <strong>TEE</strong>, threshold decryption, and attribute-based encryption</li>  
+          <li style="margin-bottom: 8px;">🎮 Steam (games), and Bilibili (anime)</li>  
+          <li style="margin-bottom: 8px;">💬 Happy to chat about the above!</li>  
+          <li>🌈 Follow your heart, live freely and happily, and I hope you can do the same, my friend.</li>  
+        </ul>  
+    </td>
+  </tr>
+</table>
 
