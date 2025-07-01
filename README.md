@@ -3,8 +3,9 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="100">
 </h2>
 
+<h5>
 <p align="center"> 
- <span style="font-size: 18px; font-weight: bold;">🌟 Contact Me:</span> 
+ <span style="font-size: 24px; font-weight: bold;">🌟 Contact Me:</span> 
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:lijiuhui@stu.xidian.edu.com"> 
     <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" width="24" style="margin-right: 3px;"/> 
@@ -16,6 +17,7 @@
      <kbd>aptx4869ac@qq.com</kbd> 
   </a> 
 </p>
+</h5>
 
 <table align="center">
   <tr>
