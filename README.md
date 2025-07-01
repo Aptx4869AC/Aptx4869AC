@@ -4,7 +4,9 @@
 </h2>
 
 <p align="center"> 
-  <a href="mailto:lijiuhui@stu.xidian.edu.com"> 
+ <span style="font-size: 18px; font-weight: bold;">🌟 Contact Me:</span> 
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:lijiuhui@stu.xidian.edu.com"> 
     <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" width="24" style="margin-right: 3px;"/> 
   <kbd>lijiuhui@stu.xidian.edu.com</kbd> 
   </a> 
@@ -77,7 +79,13 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32743/vaporeon.gif?1643517236" width="65">
 </h3>
 
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aptx4869AC&theme=react-dark)
+
 
 
 <!-- emojis: https://slackmojis.com -->
+
+<!-- https://www.cnblogs.com/PeterJXL/p/18437094 -->
+
+
 
