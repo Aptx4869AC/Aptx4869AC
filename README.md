@@ -72,24 +72,19 @@
 </p>
 
 <h3 align="center">
+    <img src="https://emojis.slackmojis.com/emojis/images/1643514171/1363/eevee.gif?1643514171" width="70">
+    <img src="https://emojis.slackmojis.com/emojis/images/1643517237/32761/cubone.gif?1643517237" width="80">
     <img src="https://emojis.slackmojis.com/emojis/images/1643517238/32764/wartortle.gif?1643517238" width="70">
-    <img src="https://emojis.slackmojis.com/emojis/images/1643514068/241/psyduck.png?1643514068" width="70">
+    <img src="https://emojis.slackmojis.com/emojis/images/1643517238/32762/pidgeot.gif?1643517238" width="60">
     <img src="https://emojis.slackmojis.com/emojis/images/1643515329/13479/absol_pokemon.gif?1643515329" width="70">
     <img src="https://emojis.slackmojis.com/emojis/images/1643517237/32760/dragonair.gif?1643517237" width="60">
-    <img src="https://emojis.slackmojis.com/emojis/images/1643517238/32766/arcanine.gif?1643517238" width="60">
-    <img src="https://emojis.slackmojis.com/emojis/images/1643514171/1363/eevee.gif?1643514171" width="60">
-    <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32742/umbreon.gif?1643517236" width="60">
-    <img src="https://emojis.slackmojis.com/emojis/images/1643515329/13480/aerodactyl_pokemon.gif?1643515329" width="60">
-    <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32749/lugia.gif?1643517236" width="60">
-    <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32746/latios.gif?1643517236" width="60">
-    <img src="https://emojis.slackmojis.com/emojis/images/1643514068/242/mewtwo.png?1643514068" width="60">
+    <img src="https://emojis.slackmojis.com/emojis/images/1643517238/32766/arcanine.gif?1643517238" width="75">
+    <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32742/umbreon.gif?1643517236" width="75">
+    <img src="https://emojis.slackmojis.com/emojis/images/1643515329/13480/aerodactyl_pokemon.gif?1643515329" width="85">
+    <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32749/lugia.gif?1643517236" width="70">
+    <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32746/latios.gif?1643517236" width="70">
+    <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32743/vaporeon.gif?1643517236" width="65">
 </h3>
-
-
-
-
-
-
 
 
 
