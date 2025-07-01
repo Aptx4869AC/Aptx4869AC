@@ -54,21 +54,13 @@
   </tr>
 </table>
 
-  <p>
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <div>
-<img src="https://github-readme-stats-three-brown-35.vercel.app/api?username=Aptx4869AC&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" width="98%" />
-        </div>
-      </td>
-      <td width="50%" align="center">
-        <div>
-            <img src="https://github-readme-stats-three-brown-35.vercel.app/api/top-langs/?username=Aptx4869AC&hide=tcl,xslt,jupyter%20notebook,smarty,tex&theme=dracula&layout=compact&hide_border=true" width="75%" />
-        </div>
-      </td>
-    </tr>
-  </table>
+<p align="center"> 
+  <span>  
+    <img src="https://github-readme-stats-three-brown-35.vercel.app/api?username=Aptx4869AC&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" width="45%" /> 
+  </span> 
+  <span>  
+    <img src="https://github-readme-stats-three-brown-35.vercel.app/api/top-langs/?username=Aptx4869AC&hide=tcl,xslt,jupyter%20notebook,smarty,tex&theme=dracula&layout=compact&hide_border=true" width="34.5%" /> 
+  </span> 
 </p>
 
 <h3 align="center">
@@ -88,3 +80,4 @@
 
 
 <!-- emojis: https://slackmojis.com -->
+
