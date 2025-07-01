@@ -3,20 +3,24 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="100">
 </h2>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 2;">
-    <h3>Hi, this is where I share projects and explore technology 🚀</h3>
-    <ul>
-      <li>🛡️ Focused on <strong>Privacy Protection</strong> & <strong>Privacy Computing</strong></li>
-      <li>🔐 <strong>TEE</strong>, threshold decryption, and attribute-based encryption</li>
-      <li>🎮 Steam (games), and Bilibili (anime)</li>
-      <li>💬 Happy to chat about the above!</li>
-      <li>🌈 Follow your heart, live freely and happily, and I hope you can do the same, my friend.</li>
-    </ul>
-  </div>
-  <div style="flex: 1; display: flex; align-items: center; justify-content: center; min-height: 200px;">
-    <img src="https://emojis.slackmojis.com/emojis/images/1706826451/88604/animeteacupq.png?1706826451" width="120">
-  </div>
+<div style="display: flex; align-items: flex-start; gap: 20px;">  
+  <div style="flex: 2;">  
+    <h3>Hi, this is where I share projects and explore technology 🚀</h3>  
+    <div style="display: flex; align-items: flex-start; gap: 30px;">  
+      <div style="flex: 0 0 120px; display: flex; align-items: flex-end; justify-content: center;">  
+        <img src="https://emojis.slackmojis.com/emojis/images/1706826451/88604/animeteacupq.png?1706826451" width="120" style="max-width: 100%; height: auto;">  
+      </div>  
+      <div style="flex: 1;">  
+        <ul style="margin: 0; align-items: flex-start; padding-left: 20px;">  
+          <li>🛡️ Focused on <strong>Privacy Protection</strong> & <strong>Privacy Computing</strong></li>  
+          <li>🔐 <strong>TEE</strong>, threshold decryption, and attribute-based encryption</li>  
+          <li>🎮 Steam (games), and Bilibili (anime)</li>  
+          <li>💬 Happy to chat about the above!</li>  
+          <li>🌈 Follow your heart, live freely and happily, and I hope you can do the same, my friend.</li>  
+        </ul>  
+      </div>  
+    </div>  
+  </div>  
 </div>
 
 ------
