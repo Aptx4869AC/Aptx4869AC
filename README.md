@@ -1,6 +1,6 @@
 <h2 align="center"> 
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&duration=5000&color=00B4DB&width=1000&height=50&center=true&vCenter=true&lines=Welcome+to+APTX4869's+Github!" alt="Typing SVG" /> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="100">
+    <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="80">
 </h2>
 
 <h3>
@@ -99,7 +99,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32746/latios.gif?1643517236" width="70">
     <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32743/vaporeon.gif?1643517236" width="65">
 </h3>
-![compact graph](https://github-readme-activity-graph.vercel.app/graph?username=Aptx4869AC&theme=react-dark&area=true&height=250&hide_border=true)
+![compact graph](https://github-readme-activity-graph.vercel.app/graph?username=Aptx4869AC&theme=react-dark&area=true&height=150&hide_border=true)
 
 
 
