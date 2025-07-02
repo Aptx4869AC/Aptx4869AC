@@ -101,7 +101,7 @@
 </h3>
 ------
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aptx4869AC&theme=react-dark&area=true&height=250&hide_border=true&random=123">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aptx4869AC&theme=react-dark&area=true&height=320&hide_border=true">
 
 
 <p align="center">
