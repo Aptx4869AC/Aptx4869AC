@@ -99,9 +99,9 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32746/latios.gif?1643517236" width="70">
     <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32743/vaporeon.gif?1643517236" width="65">
 </h3>
-![compact graph](https://github-readme-activity-graph.vercel.app/graph?username=Aptx4869AC&theme=react-dark&area=true&height=150&hide_border=true)
+------
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aptx4869AC&theme=react-dark&area=true&height=250&hide_border=true&random=123">
 
 
 <p align="center">
@@ -126,3 +126,4 @@
 </p>
 
 <!-- emojis: https://slackmojis.com --> <!-- https://www.cnblogs.com/PeterJXL/p/18437094 -->
+
