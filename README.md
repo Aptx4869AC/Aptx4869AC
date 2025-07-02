@@ -73,20 +73,11 @@
           <td align="center">Computer Science and Technology</td>
           <td align="center">Network and Information Security</td>
         </tr>
-        <tr>
-          <td><b>Location</b></td>
-          <td align="center">Guangzhou, Guangdong, China</td>
-          <td align="center">Xi'an, Shanxi, China</td>
-        </tr>
-        <tr>
-          <td><b>Degree</b></td>
-          <td align="center">Bachelor's Degree of Engineering</td>
-          <td align="center">Master's Degree of Engineering</td>
-        </tr>
       </table>
     </td>
   </tr>
 </table>
+
 <p align="center"> 
   <span>  
     <img src="https://github-readme-stats-three-brown-35.vercel.app/api?username=Aptx4869AC&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" width="45%" /> 
@@ -131,11 +122,4 @@
   </a>
 </p>
 
-<!-- emojis: https://slackmojis.com -->
-
-<!-- https://www.cnblogs.com/PeterJXL/p/18437094 -->
-
-<!-- -->
-
-
-
+<!-- emojis: https://slackmojis.com --> <!-- https://www.cnblogs.com/PeterJXL/p/18437094 -->
