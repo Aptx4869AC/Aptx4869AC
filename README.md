@@ -108,7 +108,7 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32746/latios.gif?1643517236" width="70">
     <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32743/vaporeon.gif?1643517236" width="65">
 </h3>
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aptx4869AC&theme=react-dark)
+![compact graph](https://github-readme-activity-graph.vercel.app/graph?username=Aptx4869AC&theme=react-dark&area=true&height=250&hide_border=true)
 
 <p align="center">
     <a href="https://github.com/Aptx4869AC/GRANT">
