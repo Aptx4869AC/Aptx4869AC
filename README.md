@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&duration=5000&color=00B4DB&width=1000&height=50&center=true&vCenter=true&lines=Welcome+to+APTX4869's+Github!" alt="Typing SVG" /> 
     <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="80">
 </h2>
-
 <h3>
     <div>
         <span>
@@ -22,15 +21,19 @@
     </td>
     <td valign="top">
         <ul style="margin: 0; padding-left: 20px; list-style-type: none;">  
-          <li style="margin-bottom: 8px;">🛡️ Focused on <strong>Privacy Protection</strong> & <strong>Privacy Computing</strong></li>  
-          <li style="margin-bottom: 8px;">🔐 <strong>TEE</strong>, threshold decryption, and attribute-based encryption</li>  
-          <li style="margin-bottom: 8px;">🎮 Steam (games), and Bilibili (anime)</li>  
-          <li style="margin-bottom: 8px;">💬 Happy to chat about the above!</li>  
-          <li>🌈 Follow your heart, live freely and happily, and I hope you can do the same, my friend.</li>  
+          <li style="margin-bottom: 6px;">🛡️ Focused on <strong>Privacy Protection</strong> & <strong>Privacy Computing</strong></li>  
+          <li style="margin-bottom: 6px;">🔐 <strong>TEE</strong>, threshold decryption, and attribute-based encryption</li>  
+          <li style="margin-bottom: 6px;">🎮 Steam (games), and Bilibili (anime)</li>  
+          <li style="margin-bottom: 6px;">💬 Happy to chat about the above!</li>  
+          <li style="margin-bottom: 6px;">🌈 Follow your heart, live freely and happily, and I hope you can do the same, my friend.</li> 
+          <li><a href="https://aptx4869ac.github.io/" target="_blank" style="color: #3498db; text-decoration: none;">
+  🔗 <strong>Aptx4869AC's Blog</strong>
+</a></li>
         </ul>  
     </td>
   </tr>
 </table>
+
 
 ------
 
@@ -38,12 +41,7 @@
 <p> 
  <span style="font-weight: bold;">🌟 Contact Me:</span> 
     &nbsp;&nbsp;&nbsp;
-    <a href="mailto:lijiuhui@stu.xidian.edu.com"> 
-    <img src="https://img.icons8.com/color/48/000000/microsoft-outlook-2019--v1.png" width="24" style="margin-right: 3px;"/> 
-  <kbd>lijiuhui@stu.xidian.edu.com</kbd> 
-  </a> 
-  &nbsp;&nbsp;|&nbsp;&nbsp; 
-  <a href="mailto:aptx4869ac@qq.com"> 
+  <a href="mailto:aptx4869ac@qq.com" style="text-decoration: none;"> 
     <img src="https://img.icons8.com/color/48/000000/qq.png" width="24" style="margin-right: 3px;"/> 
      <kbd>aptx4869ac@qq.com</kbd> 
   </a> 
@@ -77,6 +75,7 @@
     </td>
   </tr>
 </table>
+
 
 <p align="center"> 
   <span>  
