@@ -1,5 +1,5 @@
 <h2 align="center"> 
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=40&duration=5000&color=00B4DB&width=1000&height=50&center=true&vCenter=true&lines=Welcome+to+APTX4869's+Github!" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=40&duration=5000&pause=2000&color=00B4DB&width=1000&height=50&center=true&vCenter=true&lines=Welcome+to+APTX4869's+Github!" alt="Typing SVG" /> 
     <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="80">
 </h2>
 <h3>
@@ -14,36 +14,27 @@
 </h3>
 <table border="0" cellpadding="0" cellspacing="0" align="center">
   <tr>
-    <td valign="middle">
-      <div style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; overflow: hidden;">
-        <img src="https://emojis.slackmojis.com/emojis/images/1706826451/88604/animeteacupq.png?1706826451">
-      </div>
-    </td>
     <td valign="top">
         <ul style="margin: 0; padding-left: 20px; list-style-type: none;">  
-          <li style="margin-bottom: 6px;">🛡️ Focused on <strong>Privacy Protection</strong> & <strong>Privacy Computing.</strong></li>  
+          <li style="margin-bottom: 6px;">🛡️ Focused on <strong>Privacy Protection</strong> & <strong>Privacy Computing</strong>.</li>  
           <li style="margin-bottom: 6px;">🔐 <strong>TEE</strong>, threshold decryption, and attribute-based encryption.</li>  
-          <li style="margin-bottom: 6px;">🎮 Steam (games), and Bilibili (anime).</li>  
-          <li style="margin-bottom: 6px;">⭐ Give me a STAR, if you like my repositories! </li>  
-          <li style="margin-bottom: 6px;">🌈 Follow your heart, live freely and happily, and I hope you can do the same, my friend.</li> 
-          <li><a href="https://aptx4869ac.github.io/" target="_blank" style="color: #3498db; text-decoration: none;">
-  🔗 <strong>Aptx4869AC's Blog</strong>
-</a></li>
+          <li style="margin-bottom: 6px;">🎮 Hobbies: <strong>Steam</strong> (games) | <strong>Bilibili</strong> (anime).</li>  
+          <li style="margin-bottom: 6px;">⭐ If you find my repositories helpful, don’t forget to drop a <strong>STAR</strong>!</li>  
+          <li style="margin-bottom: 6px;">🌈 Live by your heart, freely and happily — hope you do the same, my friend.</li> 
+          <li>🔗 Finally, welcome to stop by <a href="https://aptx4869ac.github.io/" target="_blank" style="color: #3498db; text-decoration: none;"><strong>my blog</strong></a>! </li>
         </ul>  
     </td>
   </tr>
 </table>
 
 
-
 ------
 
 <h3 align="center">
 <p> 
- <span style="font-weight: bold;">🌟 Contact Me:</span> 
+ <span style="font-weight: bold;">✉️ Contact Me:</span> 
     &nbsp;&nbsp;&nbsp;
   <a href="mailto:aptx4869ac@qq.com" style="text-decoration: none;"> 
-    <img src="https://img.icons8.com/color/48/000000/qq.png" width="22" style="margin-right: 3px;"/> 
      <kbd>aptx4869ac@qq.com</kbd> 
   </a> 
 </p>
@@ -78,7 +69,6 @@
 </table>
 
 
-
 <p align="center"> 
   <span>  
     <img src="https://github-readme-stats-three-brown-35.vercel.app/api?username=Aptx4869AC&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true" width="45%" /> 
@@ -101,6 +91,14 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32743/vaporeon.gif?1643517236" width="65">
 </h3>
 ------
+
+<h3 align="center">
+<p> 
+ <span style="font-weight: bold;">🖥️ Coding languages | 🔨 Tools</span> 
+</p>
+</h3>
+
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,vue,html,css,js,nginx,mysql,redis,docker,git,github,npm,bash,anaconda,cmake,qt,clion,idea,pycharm,vscode,matlab,ps,pr,vim,latex,md,linux)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aptx4869AC&theme=react-dark&area=true&height=320&hide_border=true">
 
@@ -125,7 +123,6 @@
     <img src="https://unv-shield.librian.net/api/unv_shield?repo=Aptx4869AC/sgx-pbc&url=https://emojis.slackmojis.com/emojis/images/1705000218/86192/anime_chuckleq.png?1705000218&scale=1.22&barlen=40&shadow=0.8&border=2">
   </a>
 </p>
-
 <!-- emojis: https://slackmojis.com --> <!-- https://www.cnblogs.com/PeterJXL/p/18437094 -->
 
 
