@@ -1,5 +1,5 @@
 <h2 align="center"> 
-    <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=40&duration=5000&pause=2000&color=00B4DB&width=1000&height=50&center=true&vCenter=true&lines=Welcome+to+APTX4869's+Github!" alt="Typing SVG" /> 
+    <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=40&duration=5000&pause=2000&color=00B4DB&width=1000&height=50&center=true&vCenter=true&lines=Welcome+to+Aptx4869AC's+Github!" alt="Typing SVG" /> 
     <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="80">
 </h2>
 <h3>
@@ -32,7 +32,7 @@
 
 <h3 align="center">
 <p> 
- <span style="font-weight: bold;">✉️ Contact Me:</span> 
+ <span style="font-weight: bold;">✉️ Contact me:</span> 
     &nbsp;&nbsp;&nbsp;
   <a href="mailto:aptx4869ac@qq.com" style="text-decoration: none;"> 
      <kbd>aptx4869ac@qq.com</kbd> 
@@ -90,7 +90,12 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32746/latios.gif?1643517236" width="70">
     <img src="https://emojis.slackmojis.com/emojis/images/1643517236/32743/vaporeon.gif?1643517236" width="65">
 </h3>
+
+
 ------
+
+
+
 
 <h3 align="center">
 <p> 
@@ -102,27 +107,27 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aptx4869AC&theme=react-dark&area=true&height=320&hide_border=true">
 
-
 <p align="center">
-    <a href="https://github.com/Aptx4869AC/GRANT">
+    <a href="https://github.com/Aptx4869AC/GRANT" style="text-decoration: none;">
     <img src="https://unv-shield.librian.net/api/unv_shield?repo=Aptx4869AC/GRANT&url=https://emojis.slackmojis.com/emojis/images/1700611332/76387/anime_drinkq.png?1700611332&scale=1.2&barlen=40&shadow=0.8&border=2&backcolor=FFF5E6">
   </a>
-  <a href="https://github.com/Aptx4869AC/TRUST">
+  <a href="https://github.com/Aptx4869AC/TRUST" style="text-decoration: none;">
     <img src="https://unv-shield.librian.net/api/unv_shield?repo=Aptx4869AC/TRUST&url=https://emojis.slackmojis.com/emojis/images/1699119966/73941/kuro_anime_cheers.png?1699119966&scale=1.25&barlen=40&shadow=0.8&border=&backcolor=FFFAF0 ">
   </a>
-  <a href="https://github.com/Aptx4869AC/GZHU-library_booking">
+  <a href="https://github.com/Aptx4869AC/GZHU-library_booking" style="text-decoration: none;">
     <img src="https://unv-shield.librian.net/api/unv_shield?repo=Aptx4869AC/GZHU-library_booking&url=https://emojis.slackmojis.com/emojis/images/1698808349/73109/animeyayq.png?1698808349&scale=1.25&barlen=40&shadow=0.8&border=&backcolor=FFECF5">
   </a>
-  <a href="https://github.com/Aptx4869AC/Feature-Extraction-Using-Intel-SGX">
+  <a href="https://github.com/Aptx4869AC/Feature-Extraction-Using-Intel-SGX" style="text-decoration: none;">
     <img src="https://unv-shield.librian.net/api/unv_shield?repo=Aptx4869AC/Feature-Extraction-Using-Intel-SGX&url=https://emojis.slackmojis.com/emojis/images/1699218832/74041/a_anime_zerotwocute.png?1699218832&scale=1.22&barlen=40&shadow=0.8&border=2">
   </a>
-  <a href="https://github.com/Aptx4869AC/sgx-setup">
+  <a href="https://github.com/Aptx4869AC/sgx-setup" style="text-decoration: none;">
     <img src="https://unv-shield.librian.net/api/unv_shield?repo=Aptx4869AC/sgx-setup&url=https://emojis.slackmojis.com/emojis/images/1696479664/70250/animepurphair_q.png?1696479664&scale=1.2&barlen=40&shadow=0.8&border=2">
   </a>
-  <a href="https://github.com/Aptx4869AC/sgx-pbc">
+  <a href="https://github.com/Aptx4869AC/sgx-pbc" style="text-decoration: none;">
     <img src="https://unv-shield.librian.net/api/unv_shield?repo=Aptx4869AC/sgx-pbc&url=https://emojis.slackmojis.com/emojis/images/1705000218/86192/anime_chuckleq.png?1705000218&scale=1.22&barlen=40&shadow=0.8&border=2">
   </a>
 </p>
+
 <!-- emojis: https://slackmojis.com --> <!-- https://www.cnblogs.com/PeterJXL/p/18437094 -->
 
 
