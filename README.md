@@ -16,11 +16,11 @@
   <tr>
     <td valign="top">
         <ul style="margin: 0; padding-left: 20px; list-style-type: none;">  
-          <li style="margin-bottom: 6px;">🛡️ Focused on <strong>Privacy Protection</strong> & <strong>Privacy Computing</strong>.</li>  
-          <li style="margin-bottom: 6px;">🔐 <strong>TEE</strong>, threshold decryption, and attribute-based encryption.</li>  
-          <li style="margin-bottom: 6px;">🎮 Hobbies: <strong>Steam</strong> (games) | <strong>Bilibili</strong> (anime).</li>  
-          <li style="margin-bottom: 6px;">⭐ If you find my repositories helpful, don’t forget to drop a <strong>STAR</strong>!</li>  
-          <li style="margin-bottom: 6px;">🌈 Live by your heart, freely and happily — hope you do the same, my friend.</li> 
+          <li style="margin-bottom: 6px;">🛡️ Focused on <strong>Privacy Protection</strong> & <strong>Privacy-Preserving Computation</strong>.</li>  
+          <li style="margin-bottom: 6px;">🔐 Exploring <strong>TEE</strong>, threshold decryption, and attribute-based encryption.</li>  
+          <li style="margin-bottom: 6px;">🎮 Hobbies: <strong>Steam</strong> (gaming) | <strong>Bilibili</strong> (anime).</li>  
+          <li style="margin-bottom: 6px;">⭐ If you find my repositories helpful, don't forget to leave a <strong>STAR</strong>!</li>  
+          <li style="margin-bottom: 6px;">🌈 Follow your heart, live freely and happily — hope you do the same, my friend.</li> 
           <li>🔗 Finally, welcome to stop by <a href="https://aptx4869ac.github.io/" target="_blank" style="color: #3498db; text-decoration: none;"><strong>my blog</strong></a>! </li>
         </ul>  
     </td>
